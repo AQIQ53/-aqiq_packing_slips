@@ -231,3 +231,5 @@ fixtures = [
     "Client Script",
     "Custom Field",
 ]
+# custom_app/hooks.py
+
