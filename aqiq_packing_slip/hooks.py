@@ -229,7 +229,6 @@ app_license = "mit"
 
 fixtures = [
     "Client Script",
-    "Custom Field",
+    "Custom Field"
 ]
-# custom_app/hooks.py
 
