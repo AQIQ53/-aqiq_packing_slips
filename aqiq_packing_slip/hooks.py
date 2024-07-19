@@ -229,6 +229,13 @@ app_license = "mit"
 
 fixtures = [
     "Client Script",
-    "Custom Field"
+    "Custom Field",
+    {
+        "dt": "DocType",
+        "filters": [
+            ["name", "in", ["Packing Slip Consumed"]],
+            ["custom", "=", 1]
+        ]
+    }
 ]
 
